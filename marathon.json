@@ -9,7 +9,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "indooratlas/marathon-spread",
+      "image": "shirkevich/marathon-spread",
       "network": "BRIDGE"
     }
   },
